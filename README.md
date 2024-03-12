@@ -1,5 +1,5 @@
 ![code coverage badge](https://github.com/mrtuuro/cicd/actions/workflows/ci.yml/badge.svg)
-
+![code coverage badge](https://github.com/mrtuuro/cicd/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
